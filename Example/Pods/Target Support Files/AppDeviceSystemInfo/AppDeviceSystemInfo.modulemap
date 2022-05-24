@@ -1,0 +1,6 @@
+framework module AppDeviceSystemInfo {
+  umbrella header "AppDeviceSystemInfo-umbrella.h"
+
+  export *
+  module * { export * }
+}

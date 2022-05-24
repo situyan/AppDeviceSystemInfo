@@ -2,17 +2,20 @@
 //  ViewController.swift
 //  AppDeviceSystemInfo
 //
-//  Created by er2010hacker@163.com on 05/24/2022.
-//  Copyright (c) 2022 er2010hacker@163.com. All rights reserved.
+//  Created by SMH on 05/24/2022.
+//  Copyright (c) 2022 SMH All rights reserved.
 //
 
 import UIKit
+import AppDeviceSystemInfo
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        print("--->> modelsName:\(self.modelName)")
     }
 
     override func didReceiveMemoryWarning() {

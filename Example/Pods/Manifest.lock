@@ -1,0 +1,16 @@
+PODS:
+  - AppDeviceSystemInfo (0.1.0)
+
+DEPENDENCIES:
+  - AppDeviceSystemInfo (from `../AppDeviceSystemInfo.podspec`)
+
+EXTERNAL SOURCES:
+  AppDeviceSystemInfo:
+    :path: "../AppDeviceSystemInfo.podspec"
+
+SPEC CHECKSUMS:
+  AppDeviceSystemInfo: d6517407733ee6241576f9f1073890a1f9e7ae77
+
+PODFILE CHECKSUM: 4fc2519020b3c6613c981e5756038cee4394a057
+
+COCOAPODS: 1.11.2
