@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: 提供扩展类，用以便捷获取APP、设备和系统的部分信息，如App名称、设备类型、系统版本等等信息.
                        DESC
 
-  s.homepage         = 'https://github.com/er2010hacker@163.com/AppDeviceSystemInfo'
+  s.homepage         = 'https://github.com/situyan/AppDeviceSystemInfo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'SMH' => 'er2010hacker@163.com' }
-  s.source           = { :git => 'https://github.com/er2010hacker@163.com/AppDeviceSystemInfo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/situyan/AppDeviceSystemInfo.git', :tag => s.version.to_s }
 
   s.swift_versions = '4.0'
   s.ios.deployment_target = '11.0'
